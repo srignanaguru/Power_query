@@ -9,11 +9,8 @@ This repository contains an employee dataset processed using Power Query to enha
 The dataset includes a **Gender-Based Presentation** with:
 
 **Bar Chart** - Employee count by department for 2019 & 2020.
-
 **Slicer** - Filters data by gender.
-
 **Column Chart** - Gender count by country.
-
 **Pie Chart** - Gender distribution.
 
 ## Data Processing Steps
